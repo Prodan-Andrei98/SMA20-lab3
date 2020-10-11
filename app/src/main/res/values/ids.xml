@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titleText" type="id" />
+    <item name="messageButton" type="id" />
+    <item name="popup" type="id" />
+    <item name="bPop" type="id" />
+    <item name="bPositive" type="id" />
+    <item name="bNegative" type="id" />
+    <item name="butPop" type="id" />
+</resources>

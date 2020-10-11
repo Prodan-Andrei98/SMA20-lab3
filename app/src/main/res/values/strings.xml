@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="greetings">Greetings</string>
+    <string name="your_name">Your Name</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="button">Button</string>
+    <string name="cancel">Cancel</string>
+    <string name="textTitle" />
+    <string name="textButton" />
+    <string name="popup">PopUp.</string>
+    <string name="vezi_popup">Vezi popup</string>
+
+    <string name="pozitiv">Pozitiv</string>
+    <string name="negativ">Negativ</string>
+    <string name="veziinpopup">VeziInPopup</string>
+    <string name="arata_in_popup">Arata in Popup</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="insert_a_name">Insert a name</string>
+
+    <string name="show_in_popup">Show in popup</string>
+    <string name="negative">Negative</string>
+    <string name="positive">Positive</string>
+    <string name="spune_hello">Spune hello</string>
+</resources>
