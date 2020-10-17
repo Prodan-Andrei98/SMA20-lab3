@@ -7,4 +7,8 @@
     <item name="bPositive" type="id" />
     <item name="bNegative" type="id" />
     <item name="butPop" type="id" />
+    <item name="buttonA" type="id" />
+    <item name="buttonB" type="id" />
+    <item name="buttonC" type="id" />
+    <item name="buttonD" type="id" />
 </resources>
